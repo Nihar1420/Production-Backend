@@ -1,0 +1,19 @@
+{
+  "name": "production-level-backend",
+  "version": "1.0.0",
+  "description": "This is a backend specific project where I will write some special production level optimised code for future referrence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Production",
+    "Node",
+    "Express"
+  ],
+  "author": "Nihar Ranjan Hota",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
